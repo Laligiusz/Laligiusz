@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm <code>devbyreqqel</code> 👋</h1>
+<h1 align="center">Cześć, Jestem <code>laligiusz</code> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=%F0%9F%8E%B5+Artist+%C3%97+Producer;%F0%9F%92%BB+Laptop+Power+User;%F0%9F%A7%89+Yerba+Mate+Enthusiast" alt="Typing intro" />
@@ -12,36 +12,34 @@
 
 ---
 
-## ✨ About Me
+## ✨ O mnie
 
 - 🎹 FL Studio, Reaper & Ableton user
-- 🪟 Windows-first workflow
-- 🧉 Yerba mate lover
+- 🪟 Windows / Linux User
 
 ---
 
-## 💻 My Laptops
+## 💻 My PC
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎛️ Studio Laptop</h3>
+      <h3>🎛️ My PC</h3>
       <ul>
-        <li><b>Model:</b> Lenovo Y50-70</li>
-        <li><b>CPU:</b> Intel Core i7-4720HQ</li>
-        <li><b>RAM:</b> 16 GB</li>
-        <li><b>GPU:</b> GTX 960M + Intel HD</li>
-        <li><b>OS:</b> Windows 11</li>
+        <li><b>CPU:</b> AMD Ryzen 7 8700 8-Core</li>
+        <li><b>RAM:</b> 32 GB</li>
+        <li><b>GPU:</b> NVIDIA RTX 5060 Ti</li>
+        <li><b>OS:</b> Windows 11 / Linux ARCH</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧾 Office Laptop</h3>
+      <h3>🧾 My Laptop</h3>
       <ul>
-        <li><b>Model:</b> Lenovo ThinkBook 14-IIL</li>
-        <li><b>CPU:</b> Intel Core i5-1035G1</li>
-        <li><b>RAM:</b> 8 GB</li>
+        <li><b>Model:</b> Lenovo Ideapad 320-17IKB</li>
+        <li><b>CPU:</b> Intel Pentium</li>
+        <li><b>RAM:</b> 4 GB</li>
         <li><b>GPU:</b> Intel UHD Graphics</li>
-        <li><b>OS:</b> Windows 11</li>
+        <li><b>OS:</b> Windows 10</li>
       </ul>
     </td>
   </tr>
@@ -79,4 +77,4 @@
 
 ---
 
-<p align="center"><i>Built with music, code, and mate 🧉</i></p>
+<p align="center"><i>Built by Laligiusz</i></p>
