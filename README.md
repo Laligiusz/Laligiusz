@@ -29,7 +29,7 @@
         <li><b>CPU:</b> AMD Ryzen 7 8700 8-Core</li>
         <li><b>RAM:</b> 32 GB</li>
         <li><b>GPU:</b> NVIDIA RTX 5060 Ti</li>
-        <li><b>OS:</b> Windows 11 / Linux ARCH</li>
+        <li><b>OS:</b> Windows 11 Pro</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -39,25 +39,11 @@
         <li><b>CPU:</b> Intel Pentium</li>
         <li><b>RAM:</b> 4 GB</li>
         <li><b>GPU:</b> Intel UHD Graphics</li>
-        <li><b>OS:</b> Windows 10</li>
+        <li><b>OS:</b> Linux Ubuntu</li>
       </ul>
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-[![Light Mode Stats](https://github-stats-extended.vercel.app/api?username=devbyreqqel&show_icons=true&icon_color=00ff00&bg_color=ffffff#gh-light-mode-only)](https://github.com/devbyreqqel#gh-light-mode-only)
-[![Dark Mode Stats](https://github-stats-extended.vercel.app/api?username=devbyreqqel&show_icons=true&text_color=ADADAD&icon_color=00ff00&bg_color=0c1117#gh-dark-mode-only)](https://github.com/devbyreqqel#gh-dark-mode-only)
-
-[![Light Mode Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=devbyreqqel&layout=compact&icon_color=00ff00&bg_color=ffffff#gh-light-mode-only)](https://github.com/devbyreqqel#gh-light-mode-only)
-[![Dark Mode Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=devbyreqqel&layout=compact&text_color=ADADAD&icon_color=00ff00&bg_color=0c1117#gh-dark-mode-only)](https://github.com/devbyreqqel#gh-dark-mode-only)
-
-</div>
 
 ---
 
